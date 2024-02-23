@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<TITLE>Mi primer programa en PHP</TITLE>
+</HEAD>
+<BODY>
+<?PHP
+ print (“Hola mundo”);
+?>
+</BODY>
+</HTML>
